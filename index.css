@@ -7,6 +7,7 @@ section {
 	grid-template-rows: 50px 200px  50px 400px 60px 200px 50px 220px 50px; 
 	grid-template-columns: repeat(4, 1fr); 
 	grid-gap: 10px; 
+	column-gap: 20px;
 }
 img {
 	width: 100%;
